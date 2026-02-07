@@ -1,2 +1,1 @@
-# CryptobotV2.0
-Bot simulator with self learning core
+Full build-ready Flutter project for CryptoSim Move (includes android/ios folders).
